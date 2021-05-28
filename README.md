@@ -7,5 +7,6 @@ a very minimalistic personal website without JavaScript and images. compatible w
 - [ ] rework favicon
 - [ ] responsive design rework
 - [ ] support for old browsers
+- [ ] support for tui browsers
 
 
