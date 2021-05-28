@@ -1,4 +1,4 @@
-<div style="width: 100%; text-align: center"><img src="https://raw.githubusercontent.com/heyxsh/haidarz/master/assets/img/favicon.ico"  alt="Site's favicon" /></div>
+<img src="https://raw.githubusercontent.com/heyxsh/haidarz/master/assets/img/favicon.ico" style="display:block;float:none;margin-left:auto;margin-right:auto;width:60%">
 
 ### 🌐 Personal website
 
