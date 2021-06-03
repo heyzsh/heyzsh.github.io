@@ -1,5 +1,3 @@
-### 🌐 Personal website
-
 a very minimalistic personal website without JavaScript and images. compatible with almost any browser. the site uses [Gruvbox](https://github.com/morhetz/gruvbox) color palette and [Inconsolata](https://fonts.google.com/specimen/Inconsolata) font.
 
 ### ✅ Todo
@@ -9,5 +7,6 @@ a very minimalistic personal website without JavaScript and images. compatible w
 - [ ] rework favicon
 - [ ] responsive design rework
 - [ ] support for old browsers
+- [ ] support for tui browsers
 
 
