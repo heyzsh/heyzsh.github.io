@@ -8,6 +8,7 @@ body {
   color: #fbf1c7;
   font-size: 16px;
   font-family: "Inconsolata", monospace, sans-serif;
+  line-height: 1.3rem;
 }
 
 .container {
