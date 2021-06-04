@@ -107,6 +107,7 @@ a.green:hover {
 pre {
   color: #fb4934;
   font-weight: bolder;
+  line-height: 1.15rem !important;
 }
 
 .header {
